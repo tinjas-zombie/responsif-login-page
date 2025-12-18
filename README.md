@@ -59,7 +59,7 @@ Designed for learning and improving frontend fundamentals
 
 (Add screenshot here)
 
-![Login Preview](![coding](https://github.com/user-attachments/assets/763f6d7b-6535-40cc-b446-dd612a1b9d0f)
+![Login Preview]![coding](https://github.com/user-attachments/assets/763f6d7b-6535-40cc-b446-dd612a1b9d0f)
 
 
 ---
