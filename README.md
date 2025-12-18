@@ -57,7 +57,8 @@ Designed for learning and improving frontend fundamentals
 
 📷 Preview
 
-![login preview](preview.png)[coding](https://github.com/user-attachments/assets/763f6d7b-6535-40cc-b446-dd612a1b9d0f)
+[coding](![coding](https://github.com/user-attachments/assets/d4400de0-4b98-432b-a289-3a3afdd48d15)
+)
 
 
 ---
